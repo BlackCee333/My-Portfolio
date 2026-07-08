@@ -1,4 +1,4 @@
-import logo from '/assets/personal/logo.png';
+import logo from '/assets/personal/logo.jpg';
 
 import profileImg from '/assets/personal/profile.jpg';
 
